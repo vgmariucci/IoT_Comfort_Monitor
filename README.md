@@ -15,7 +15,7 @@ Android dashboard.
 
 ![ESP32_Sensors_and_Modules_Setup](imgs/01_ESP32_Sensors_and_Modules_Setup.jpeg)
 
-### Product Design Projection and Simple Sulution Architecture (MQTT/HTTP/OAuth2)
+### Product Design Projection and Simple Solution Architecture (MQTT/HTTP/OAuth2)
 
 ![Portable_IoT_Comfort_Module_Monitor](imgs/02_Portable_IoT_Comfort_Module_Monitor.png)
 
