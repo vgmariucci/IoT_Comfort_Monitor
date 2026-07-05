@@ -1,0 +1,16 @@
+# Android
+.gradle/
+build/
+local.properties
+*.jks
+*.keystore
+android/.idea/workspace.xml
+android/.idea/navEditor.xml
+android/.idea/assetWizardSettings.xml
+
+# ESP32 — NEVER commit real credentials
+esp32/main/Secrets.h
+
+# OS
+.DS_Store
+Thumbs.db
